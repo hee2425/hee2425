@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=95B545&height=300&section=header&text=zzahee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=95B545&height=300&section=header&text=ChaeHee Lim&fontSize=90)
 
 ### Hello 👋
 
+
+
 ### 👩🏻‍💻 About Me
+###----------------------------------------------------
+
 
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
