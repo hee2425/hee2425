@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 
 
 
-### 👩🏻‍💻 About Me
-###----------------------------------------------------
+## 👩🏻‍💻 About Me
+<br>
+- Here's my profile <a target="_blank" href= https://leeward-brow-1da.notion.site/dcba81e30912475daffc284d9129aa1d"><img align="center" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logoColor=white"/></a>
+</br>
+
 
 
 
