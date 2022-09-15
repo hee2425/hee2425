@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 👩🏻‍💻 About Me
 <br>
-- Here's my <a target="_blank" href=[ https://leeward-brow-1da.notion.site/dcba81e30912475daffc284d9129aa1d](https://leeward-brow-1da.notion.site/dcba81e30912475daffc284d9129aa1d)">profile</a>
+- Here's my <a target="_blank" href="https://leeward-brow-1da.notion.site/dcba81e30912475daffc284d9129aa1d">profile</a>
 </br>
 
 
