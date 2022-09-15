@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 ## 👩🏻‍💻 About Me
 <br/>
-• Here's my <a target="_blank" href="https://leeward-brow-1da.notion.site/dcba81e30912475daffc284d9129aa1d">profile</a>
+😀 Here's my <a target="_blank" href="https://leeward-brow-1da.notion.site/dcba81e30912475daffc284d9129aa1d">profile</a>
 
-• Here's my <a target="_blank" href="https://leeward-brow-1da.notion.site/8e46cba7b2ed4bb99626b583ab327ad6?v=0ba5b0c724884bb09494c893a04d7033">portfolio</a>
+😀 Here's my <a target="_blank" href="https://leeward-brow-1da.notion.site/8e46cba7b2ed4bb99626b583ab327ad6?v=0ba5b0c724884bb09494c893a04d7033">portfolio</a>
 
-
+<br>
 
 ## 🔴 Language 
 <br/>
