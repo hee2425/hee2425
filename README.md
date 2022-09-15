@@ -14,6 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+/* CSS */
+.grid-image {
+    display:flex;
+    flex-wrap:wrap;
+    align-items:flex-start;
+    margin:30px 0;
+}
+.grid-image img {
+    width:calc(33.333% - 10px);
+    margin:0 15px 15px 0;
+}
+.grid-image img:nth-of-type(3n),
+.grid-image img:last-child {
+    margin-right:0;
+}
+@media screen and (max-width:640px){
+  .grid-image img {
+    width:calc(50% - 15px);
+  }
+}
+@media screen and (max-width:480px){
+  .grid-image img:nth-of-type(2n) {
+    margin-right:0;
+  }
+  .grid-image img:nth-of-type(3n) {
+    margin-right:15px;
+  }
+}
+</style>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C8C&height=300&section=header&text=Chaehee&fontSize=90" />
 
@@ -28,22 +58,16 @@ Here are some ideas to get you started:
 
 • Here's my <a target="_blank" href="https://leeward-brow-1da.notion.site/8e46cba7b2ed4bb99626b583ab327ad6?v=0ba5b0c724884bb09494c893a04d7033">portfolio</a>
 
-<br>
 
-<table>
-  <tr>
-    <td><img alt="" src="" /></td><td><img alt="" src="" /></td><td><img alt="" src="" /></td>
-  <tr>
-</table>
 
 ## 🔴 Language 
-<br/>
-<table>
-          <tr>
-                    <td><img src="https://img.ss.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></td>
-                    <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></td>
-          </tr>
-</table>
+<div class="grid-image">
+  <img alt="" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="" src="img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+</div>
+
+
 
 <br/>
 <img src="https://img.ss.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
