@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 <br>
 
+## 🛠 Skills
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+
 
