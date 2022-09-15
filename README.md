@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Chaehee&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C8C&height=300&section=header&text=Chaehee&fontSize=90" />
 
 ### Hello 👋
-
+<br>
+<br>
 
 
 ## 👩🏻‍💻 About Me
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 
 • Here's my <a target="_blank" href="https://leeward-brow-1da.notion.site/8e46cba7b2ed4bb99626b583ab327ad6?v=0ba5b0c724884bb09494c893a04d7033">portfolio</a>
 
-
+<br>
 
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
